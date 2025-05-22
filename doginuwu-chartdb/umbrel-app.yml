@@ -2,13 +2,13 @@ manifestVersion: 1
 id: doginuwu-chartboard
 name: ChartDB
 tagline: Database diagrams editor that allows you to visualize and design your DB with a single query. 
-icon: https://raw.githubusercontent.com/DoginUwU/umbrel-focalboard/master/doginuwu-chartdb/logo.svg
+icon: https://raw.githubusercontent.com/DoginUwU/umbrel-focalboard/master/doginuwu-chartdb/logo.png
 category: Development
 version: "1.12.0"
-port: 8000
+port: 8001
 description: >-
   Free and Open-source database diagrams editor, visualize and design your database with a single query. Tool to help you draw your DB relationship diagrams and export DDL scripts.
-developer: Focalboard
+developer: ChartDB
 website: https://chartdb.io/
 submitter: DoginUwU
 submission: https://github.com/DoginUwU/umbrel-focalboard
